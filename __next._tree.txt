@@ -1,0 +1,5 @@
+:HL["/kavachai.github.io/_next/static/chunks/beee40fa595ed397.css","style"]
+:HL["/kavachai.github.io/_next/static/chunks/5607e9e4d2217f8c.css","style"]
+:HL["/kavachai.github.io/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kavachai.github.io/_next/static/media/fba5a26ea33df6a3-s.p.1bbdebe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"FAbwAepp-tD-p2udMQiz5","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/kavachai.github.io/_next/static/chunks/4392189f08a7af14.js"],"ClientPageRoot"]
+3:I[52683,["/kavachai.github.io/_next/static/chunks/66346ad2836c1601.js","/kavachai.github.io/_next/static/chunks/f0d5a93325317ca8.js","/kavachai.github.io/_next/static/chunks/e4c820e95c4431ff.js"],"default"]
+6:I[97367,["/kavachai.github.io/_next/static/chunks/4392189f08a7af14.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"FAbwAepp-tD-p2udMQiz5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/kavachai.github.io/_next/static/chunks/e4c820e95c4431ff.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
